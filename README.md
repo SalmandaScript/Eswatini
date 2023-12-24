@@ -1,0 +1,2 @@
+# Eswatini
+Kingdom of Eswatini.
