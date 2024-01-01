@@ -66,6 +66,16 @@ color: "teal"
 });
 });
 
+//previous page 
+function eritrea(){
+open("https://salmandascript.github.io/Eritrea/Eriteria.html");
+}
+
+//next  page 
+function ethiopia(){
+open("https://salmandascript.github.io/Ethiopia/Ethiopia.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
